@@ -1,4 +1,3 @@
-```markdown
 # Harassment-Bot
 
 A Gen AI-Based Chat Bot for Addressing Complaints Regarding Women Harassment in Universities.
