@@ -92,5 +92,4 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 ## **Contact**
-For any questions or feedback, please contact us at [email@example.com].
-```
+For any questions or feedback, please contact us at [n210782@rguktn.ac.in] & [n210132@rguktn.ac.in]
